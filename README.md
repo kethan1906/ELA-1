@@ -1,4 +1,6 @@
-COLLAB LINK- https://colab.research.google.com/drive/1ZXTYjwrtZ9MZanur1xq-Q-IcMu7JcQEQ?usp=sharing
+## Google Colab
+
+(https://colab.research.google.com/drive/1ZXTYjwrtZ9MZanur1xq-Q-IcMu7JcQEQ?usp=sharing)
 
 # ELA-1 — Phishing & Malicious Email Classifier
 
